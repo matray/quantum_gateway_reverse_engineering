@@ -1,5 +1,5 @@
 import router
-r = router.Router('admin', 'tide200toe')
+r = router.Router('admin', '')
 r.login()
 r.dnsserver()
 r.system()
